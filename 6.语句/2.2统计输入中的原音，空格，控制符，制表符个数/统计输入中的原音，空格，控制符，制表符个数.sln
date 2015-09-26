@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "统计输入中的原音，空格，控制符，制表符个数", "统计输入中的原音，空格，控制符，制表符个数\统计输入中的原音，空格，控制符，制表符个数.vcxproj", "{87410C32-93AA-4F28-8A18-C79132A329FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87410C32-93AA-4F28-8A18-C79132A329FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87410C32-93AA-4F28-8A18-C79132A329FC}.Debug|Win32.Build.0 = Debug|Win32
+		{87410C32-93AA-4F28-8A18-C79132A329FC}.Release|Win32.ActiveCfg = Release|Win32
+		{87410C32-93AA-4F28-8A18-C79132A329FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

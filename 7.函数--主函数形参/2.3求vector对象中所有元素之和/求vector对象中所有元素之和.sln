@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求vector对象中所有元素之和", "求vector对象中所有元素之和\求vector对象中所有元素之和.vcxproj", "{72CFF59F-9601-4E8B-846A-2C35BF5C5B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CFF59F-9601-4E8B-846A-2C35BF5C5B90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72CFF59F-9601-4E8B-846A-2C35BF5C5B90}.Debug|Win32.Build.0 = Debug|Win32
+		{72CFF59F-9601-4E8B-846A-2C35BF5C5B90}.Release|Win32.ActiveCfg = Release|Win32
+		{72CFF59F-9601-4E8B-846A-2C35BF5C5B90}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

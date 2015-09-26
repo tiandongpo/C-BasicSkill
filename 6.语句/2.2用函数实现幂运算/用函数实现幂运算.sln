@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用函数实现幂运算", "用函数实现幂运算\用函数实现幂运算.vcxproj", "{86E9B7EF-D347-43F5-A0D0-731154C73DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E9B7EF-D347-43F5-A0D0-731154C73DDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86E9B7EF-D347-43F5-A0D0-731154C73DDD}.Debug|Win32.Build.0 = Debug|Win32
+		{86E9B7EF-D347-43F5-A0D0-731154C73DDD}.Release|Win32.ActiveCfg = Release|Win32
+		{86E9B7EF-D347-43F5-A0D0-731154C73DDD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
