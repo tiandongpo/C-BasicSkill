@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分别查找string对象中的数字和字母", "分别查找string对象中的数字和字母\分别查找string对象中的数字和字母.vcxproj", "{A7A951EB-EFD8-4E31-9A9B-34FD29586FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A951EB-EFD8-4E31-9A9B-34FD29586FF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7A951EB-EFD8-4E31-9A9B-34FD29586FF2}.Debug|Win32.Build.0 = Debug|Win32
+		{A7A951EB-EFD8-4E31-9A9B-34FD29586FF2}.Release|Win32.ActiveCfg = Release|Win32
+		{A7A951EB-EFD8-4E31-9A9B-34FD29586FF2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

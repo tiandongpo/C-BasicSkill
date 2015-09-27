@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "标准库为vector对象提供的内存分配策略", "标准库为vector对象提供的内存分配策略\标准库为vector对象提供的内存分配策略.vcxproj", "{8BBC585A-41F5-4235-8A99-6E031D9EDE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBC585A-41F5-4235-8A99-6E031D9EDE77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BBC585A-41F5-4235-8A99-6E031D9EDE77}.Debug|Win32.Build.0 = Debug|Win32
+		{8BBC585A-41F5-4235-8A99-6E031D9EDE77}.Release|Win32.ActiveCfg = Release|Win32
+		{8BBC585A-41F5-4235-8A99-6E031D9EDE77}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

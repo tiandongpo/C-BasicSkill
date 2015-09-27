@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用stack处理括号问题", "用stack处理括号问题\用stack处理括号问题.vcxproj", "{465402D9-5BED-4D40-8540-F4381E44D764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465402D9-5BED-4D40-8540-F4381E44D764}.Debug|Win32.ActiveCfg = Debug|Win32
+		{465402D9-5BED-4D40-8540-F4381E44D764}.Debug|Win32.Build.0 = Debug|Win32
+		{465402D9-5BED-4D40-8540-F4381E44D764}.Release|Win32.ActiveCfg = Release|Win32
+		{465402D9-5BED-4D40-8540-F4381E44D764}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

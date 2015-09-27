@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assign和append操作创建string对象", "assign和append操作创建string对象\assign和append操作创建string对象.vcxproj", "{1E4C8002-A0EE-4B25-AB9C-A97EC83F75AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4C8002-A0EE-4B25-AB9C-A97EC83F75AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E4C8002-A0EE-4B25-AB9C-A97EC83F75AF}.Debug|Win32.Build.0 = Debug|Win32
+		{1E4C8002-A0EE-4B25-AB9C-A97EC83F75AF}.Release|Win32.ActiveCfg = Release|Win32
+		{1E4C8002-A0EE-4B25-AB9C-A97EC83F75AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

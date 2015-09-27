@@ -1,0 +1,21 @@
+﻿生成启动时间为 2013/2/9 地狱天神 11:09:35。
+     1>项目“E:\c++文件\用stack处理括号问题\用stack处理括号问题\用stack处理括号问题.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\用stack处理括号问题.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "用stack处理括号问题.cpp"
+         用stack处理括号问题.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c++文件\用stack处理括号问题\Debug\用stack处理括号问题.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\用stack处理括号问题.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\c++文件\用stack处理括号问题\Debug\用stack处理括号问题.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c++文件\用stack处理括号问题\Debug\用stack处理括号问题.lib" /MACHINE:X86 "Debug\用stack处理括号问题.obj"
+         LINK : 没有找到 E:\c++文件\用stack处理括号问题\Debug\用stack处理括号问题.exe 或上一个增量链接没有生成它；正在执行完全链接
+         用stack处理括号问题.vcxproj -> E:\c++文件\用stack处理括号问题\Debug\用stack处理括号问题.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\c++文件\用stack处理括号问题\Debug\用stack处理括号问题.exe;#1" /manifest "Debug\用stack处理括号问题.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\用stack处理括号问题.unsuccessfulbuild”。
+         正在对“Debug\用stack处理括号问题.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\c++文件\用stack处理括号问题\用stack处理括号问题\用stack处理括号问题.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.16
