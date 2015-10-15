@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "建立int和string的pair 赋值给vector", "建立int和string的pair 赋值给vector\建立int和string的pair 赋值给vector.vcxproj", "{AF3A978E-E956-4CB2-9A69-34567D261081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3A978E-E956-4CB2-9A69-34567D261081}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF3A978E-E956-4CB2-9A69-34567D261081}.Debug|Win32.Build.0 = Debug|Win32
+		{AF3A978E-E956-4CB2-9A69-34567D261081}.Release|Win32.ActiveCfg = Release|Win32
+		{AF3A978E-E956-4CB2-9A69-34567D261081}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

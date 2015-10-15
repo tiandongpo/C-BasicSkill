@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "copy算法将文件读入到输出流", "copy算法将文件读入到输出流\copy算法将文件读入到输出流.vcxproj", "{DDA3FF70-56AF-4C83-85D3-295952507478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA3FF70-56AF-4C83-85D3-295952507478}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDA3FF70-56AF-4C83-85D3-295952507478}.Debug|Win32.Build.0 = Debug|Win32
+		{DDA3FF70-56AF-4C83-85D3-295952507478}.Release|Win32.ActiveCfg = Release|Win32
+		{DDA3FF70-56AF-4C83-85D3-295952507478}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

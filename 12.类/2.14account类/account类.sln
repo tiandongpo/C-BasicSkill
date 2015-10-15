@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "account类", "account类\account类.vcxproj", "{62C17C2B-52E3-44AD-A5F9-B0DB474E8678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C17C2B-52E3-44AD-A5F9-B0DB474E8678}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62C17C2B-52E3-44AD-A5F9-B0DB474E8678}.Debug|Win32.Build.0 = Debug|Win32
+		{62C17C2B-52E3-44AD-A5F9-B0DB474E8678}.Release|Win32.ActiveCfg = Release|Win32
+		{62C17C2B-52E3-44AD-A5F9-B0DB474E8678}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

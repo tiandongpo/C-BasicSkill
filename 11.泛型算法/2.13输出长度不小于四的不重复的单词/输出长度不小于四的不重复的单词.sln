@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输出长度不小于四的不重复的单词", "输出长度不小于四的不重复的单词\输出长度不小于四的不重复的单词.vcxproj", "{8334BD25-0351-43FB-B23C-E24211178226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8334BD25-0351-43FB-B23C-E24211178226}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8334BD25-0351-43FB-B23C-E24211178226}.Debug|Win32.Build.0 = Debug|Win32
+		{8334BD25-0351-43FB-B23C-E24211178226}.Release|Win32.ActiveCfg = Release|Win32
+		{8334BD25-0351-43FB-B23C-E24211178226}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

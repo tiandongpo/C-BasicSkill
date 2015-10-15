@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用vector和set建立图书管理机制", "用vector和set建立图书管理机制\用vector和set建立图书管理机制.vcxproj", "{1F5C6894-9AD4-470E-946D-0433F3156910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5C6894-9AD4-470E-946D-0433F3156910}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F5C6894-9AD4-470E-946D-0433F3156910}.Debug|Win32.Build.0 = Debug|Win32
+		{1F5C6894-9AD4-470E-946D-0433F3156910}.Release|Win32.ActiveCfg = Release|Win32
+		{1F5C6894-9AD4-470E-946D-0433F3156910}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

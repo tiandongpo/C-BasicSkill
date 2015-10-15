@@ -1,0 +1,90 @@
+﻿生成启动时间为 2013/2/9 地狱天神 2:26:38。
+     1>项目“E:\c++文件\家族名字与孩子姓名的map\家族名字与孩子姓名的map\家族名字与孩子姓名的map.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\家族名字与孩子姓名的map.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "家族名字和孩子姓名的map.cpp"
+         家族名字和孩子姓名的map.cpp
+     1>d:\program files\microsoft visual studio 10.0\vc\include\utility(163): error C2664: “std::vector<_Ty>::vector(const std::allocator<_Ty> &)”: 不能将参数 1 从“std::vector<_Ty>”转换为“const std::allocator<_Ty> &”
+                 with
+                 [
+                     _Ty=std::pair<std::string,std::string>
+                 ]
+                 and
+                 [
+                     _Ty=std::string
+                 ]
+                 and
+                 [
+                     _Ty=std::pair<std::string,std::string>
+                 ]
+                 原因如下: 无法从“std::vector<_Ty>”转换为“const std::allocator<_Ty>”
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+                 and
+                 [
+                     _Ty=std::pair<std::string,std::string>
+                 ]
+                 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+                 d:\program files\microsoft visual studio 10.0\vc\include\utility(255): 参见对正在编译的函数 模板 实例化“std::_Pair_base<_Ty1,_Ty2>::_Pair_base<_Ty,std::vector<_Ty>>(_Other1 &&,_Other2 &&)”的引用
+                 with
+                 [
+                     _Ty1=const std::string,
+                     _Ty2=std::vector<std::pair<std::string,std::string>>,
+                     _Ty=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+                     _Other1=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+                     _Other2=std::vector<std::string>
+                 ]
+                 d:\program files\microsoft visual studio 10.0\vc\include\xmemory(208): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2>::pair<std::basic_string<_Elem,_Traits,_Ax>,std::vector<_Ty>>(std::pair<std::basic_string<_Elem,_Traits,_Ax>,std::vector<_Ty>> &&)”的引用
+                 with
+                 [
+                     _Ty1=const std::string,
+                     _Ty2=std::vector<std::pair<std::string,std::string>>,
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>,
+                     _Ty=std::string
+                 ]
+                 d:\program files\microsoft visual studio 10.0\vc\include\xmemory(280): 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<std::pair<_Ty1,_Ty2>>(std::pair<const _Kty,std::vector<std::pair<_Ty1,std::string>>> ,_Other &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const std::string,std::vector<std::pair<std::string,std::string>>>,
+                     _Ty1=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+                     _Ty2=std::vector<std::string>,
+                     _Kty=std::string,
+                     _Other=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::vector<std::string>>
+                 ]
+                 d:\program files\microsoft visual studio 10.0\vc\include\xtree(592): 参见对正在编译的函数 模板 实例化“void std::_Cons_val<std::allocator<_Ty>,_Ty,std::pair<_Ty1,_Ty2>>(_Alloc &,std::pair<const _Kty,std::vector<std::pair<_Ty1,std::string>>> *,std::pair<_Ty1,_Ty2> &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const std::string,std::vector<std::pair<std::string,std::string>>>,
+                     _Ty1=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+                     _Ty2=std::vector<std::string>,
+                     _Alloc=std::allocator<std::pair<const std::string,std::vector<std::pair<std::string,std::string>>>>,
+                     _Kty=std::string
+                 ]
+                 d:\program files\microsoft visual studio 10.0\vc\include\xtree(755): 参见对正在编译的函数 模板 实例化“std::_Tree_nod<_Traits>::_Node *std::_Tree_val<_Traits>::_Buynode<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<std::string,std::vector<std::pair<std::string,std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::vector<std::pair<std::string,std::string>>>>,false>,
+                     _Ty=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::vector<std::string>>,
+                     _Valty=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::vector<std::string>>
+                 ]
+                 e:\c++文件\家族名字与孩子姓名的map\家族名字与孩子姓名的map\家族名字和孩子姓名的map.cpp(27): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2> std::_Tree<_Traits>::insert<std::pair<std::basic_string<_Elem,std::char_traits<char>,_Ax>,std::vector<_Ty>>>(_Valty &&)”的引用
+                 with
+                 [
+                     _Ty1=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<std::string,std::vector<std::pair<std::string,std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::vector<std::pair<std::string,std::string>>>>,false>>>,
+                     _Ty2=bool,
+                     _Traits=std::_Tmap_traits<std::string,std::vector<std::pair<std::string,std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::vector<std::pair<std::string,std::string>>>>,false>,
+                     _Elem=char,
+                     _Ax=std::allocator<char>,
+                     _Ty=std::string,
+                     _Valty=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::vector<std::string>>
+                 ]
+     1>已完成生成项目“E:\c++文件\家族名字与孩子姓名的map\家族名字与孩子姓名的map\家族名字与孩子姓名的map.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.92

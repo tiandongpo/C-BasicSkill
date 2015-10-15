@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "accumulate函数计算总和", "accumulate函数计算总和\accumulate函数计算总和.vcxproj", "{777907D6-2A13-4118-B00B-A4004C75595A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777907D6-2A13-4118-B00B-A4004C75595A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{777907D6-2A13-4118-B00B-A4004C75595A}.Debug|Win32.Build.0 = Debug|Win32
+		{777907D6-2A13-4118-B00B-A4004C75595A}.Release|Win32.ActiveCfg = Release|Win32
+		{777907D6-2A13-4118-B00B-A4004C75595A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
