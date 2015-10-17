@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编写程序查找第一个比指定值大的元素", "编写程序查找第一个比指定值大的元素\编写程序查找第一个比指定值大的元素.vcxproj", "{2ACBC77E-27A8-4CA9-ADCA-8665CE18CCE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACBC77E-27A8-4CA9-ADCA-8665CE18CCE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2ACBC77E-27A8-4CA9-ADCA-8665CE18CCE2}.Debug|Win32.Build.0 = Debug|Win32
+		{2ACBC77E-27A8-4CA9-ADCA-8665CE18CCE2}.Release|Win32.ActiveCfg = Release|Win32
+		{2ACBC77E-27A8-4CA9-ADCA-8665CE18CCE2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

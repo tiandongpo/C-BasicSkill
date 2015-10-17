@@ -1,0 +1,15 @@
+﻿生成启动时间为 2013/3/1 地狱天神 7:11:32。
+     1>项目“E:\c++文件\构造函数和复制控制成员研究\构造函数和复制控制成员研究\构造函数和复制控制成员研究.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\c++文件\构造函数和复制控制成员研究\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\构造函数和复制控制成员研究.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "复制控制成员和构造函数研究.cpp"
+         复制控制成员和构造函数研究.cpp
+     1>e:\c++文件\构造函数和复制控制成员研究\构造函数和复制控制成员研究\复制控制成员和构造函数研究.cpp(64): error C2065: “dis_rate”: 未声明的标识符
+     1>已完成生成项目“E:\c++文件\构造函数和复制控制成员研究\构造函数和复制控制成员研究\构造函数和复制控制成员研究.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.87

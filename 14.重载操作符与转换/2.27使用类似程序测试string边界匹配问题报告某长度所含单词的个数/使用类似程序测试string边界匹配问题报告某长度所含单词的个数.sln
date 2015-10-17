@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类似程序测试string边界匹配问题报告某长度所含单词的个数", "使用类似程序测试string边界匹配问题报告某长度所含单词的个数\使用类似程序测试string边界匹配问题报告某长度所含单词的个数.vcxproj", "{CD65D7F1-0E29-42CB-9F54-B1C40457B610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD65D7F1-0E29-42CB-9F54-B1C40457B610}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD65D7F1-0E29-42CB-9F54-B1C40457B610}.Debug|Win32.Build.0 = Debug|Win32
+		{CD65D7F1-0E29-42CB-9F54-B1C40457B610}.Release|Win32.ActiveCfg = Release|Win32
+		{CD65D7F1-0E29-42CB-9F54-B1C40457B610}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

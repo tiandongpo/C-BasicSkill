@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "构造函数和复制控制成员研究", "构造函数和复制控制成员研究\构造函数和复制控制成员研究.vcxproj", "{62F89FE5-8532-4FB0-B7B0-AF790331114B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F89FE5-8532-4FB0-B7B0-AF790331114B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62F89FE5-8532-4FB0-B7B0-AF790331114B}.Debug|Win32.Build.0 = Debug|Win32
+		{62F89FE5-8532-4FB0-B7B0-AF790331114B}.Release|Win32.ActiveCfg = Release|Win32
+		{62F89FE5-8532-4FB0-B7B0-AF790331114B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
