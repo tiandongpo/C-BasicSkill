@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/4/26 20:32:09。
+     1>项目“E:\c++acm\King vs King\King vs King\King vs King.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "King vs King.cpp"
+         King vs King.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c++acm\King vs King\Debug\King vs King.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\c++acm\King vs King\Debug\King vs King.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c++acm\King vs King\Debug\King vs King.lib" /MACHINE:X86 "Debug\King vs King.obj"
+     1>LINK : fatal error LNK1207: “E:\c++acm\King vs King\Debug\King vs King.pdb”中的 PDB 格式不兼容；请删除并重新生成
+     1>已完成生成项目“E:\c++acm\King vs King\King vs King\King vs King.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.45
